@@ -7,5 +7,5 @@
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=browndark&show_icons=true&theme=dracula)
 
 
-<a href='https://github.com/samadpls/Programing-Gifs'>
+<a href='[https://github.com/samadpls/Programing-Gifs](https://static.wixstatic.com/media/669c76_a5584e01166a4fb6a1743701983da7e2~mv2.gif)'>
 <img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
