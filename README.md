@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunoccs100)
 
-##Bachelor of Law, aspiring programmer. Currently studying 2nd period of Software Engineering, in addition to Java and Fullstack courses (developing in Front-end). I hope it's in the area soon.
+##Bachelor of Law, aspiring programmer. Currently studying 3nd period of Software Engineering, in addition to Java and Fullstack courses (developing in Front-end). I hope it's in the area soon.
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=browndark&show_icons=true&theme=dracula)
 
