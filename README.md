@@ -7,6 +7,6 @@
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=browndark&show_icons=true&theme=dracula)
 
 <a href="https://giphy.com/gifs/planetxolo-xolo-planet-villagers-of-oBHLgI1oaMYOyPjXbG">
-  <img align='right' src='https://media.giphy.com/media/oBHLgI1oaMYOyPjXbG/giphy.gif' width='100' height='100' alt='planetxolo-xolo-planet-villagers-of-oBHLgI1oaMYOyPjXbG'>
+  <img align='right' src='https://media.giphy.com/media/oBHLgI1oaMYOyPjXbG/giphy.gif' width='480' height='480' alt='planetxolo-xolo-planet-villagers-of-oBHLgI1oaMYOyPjXbG'>
 </a>
 
