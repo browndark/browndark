@@ -6,7 +6,7 @@
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=browndark&show_icons=true&theme=dracula)
 
-<a href="https://giphy.com/gifs/planetxolo-xolo-planet-villagers-of-oBHLgI1oaMYOyPjXbG">
+<a href="[https://giphy.com/gifs/planetxolo-xolo-planet-villagers-of-oBHLgI1oaMYOyPjXbG](https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk)">
   <img align='right' src='https://media.giphy.com/media/oBHLgI1oaMYOyPjXbG/giphy.gif' width='100%' height='500' alt='planetxolo-xolo-planet-villagers-of-oBHLgI1oaMYOyPjXbG'>
 </a>
 
