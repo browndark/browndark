@@ -6,7 +6,6 @@
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=browndark&show_icons=true&theme=dracula)
 
-<a href="[https://giphy.com/gifs/planetxolo-xolo-planet-villagers-of-oBHLgI1oaMYOyPjXbG](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hiZ28zYmMzdTRlZmRyYzJkYjFsemFoMGgzdWJhOGhoMmllOHI0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)">
-  <img align='right' src='[https://giphy.com/gifs/yay-keyboard-yaypegs-U3jLeIfHfsHjCgdfTu](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hiZ28zYmMzdTRlZmRyYzJkYjFsemFoMGgzdWJhOGhoMmllOHI0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)' width='100%' height='500' alt='planetxolo-xolo-planet-villagers-of-oBHLgI1oaMYOyPjXbG'>
+<a href="https://giphy.com/gifs/planetxolo-xolo-planet-villagers-of-oBHLgI1oaMYOyPjXbG">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hiZ28zYmMzdTRlZmRyYzJkYjFsemFoMGgzdWJhOGhoMmllOHI0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width="100%" height="500" alt="planetxolo-xolo-planet-villagers-of-oBHLgI1oaMYOyPjXbG">
 </a>
-
