@@ -3,7 +3,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunoccs100)
 ### 👨‍🎓 Bachelor of Law 🎓 | Aspiring Programmer & QA Analyst
 
-Currently in the **5th semester of Software Engineering**, focusing on **Front-end development**. Also studying **Java** and taking **Fullstack development courses**.
+Currently in the **5th semester of Software Engineering**, Every day I try to expand my knowledge!
+Also studying **Java** and taking **Fullstack development courses**.
 
 🎯 Currently working as a **Quality Assurance (QA) Analyst** at **UOL Compass**, constantly seeking growth in the tech field!
 
