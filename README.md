@@ -1,6 +1,8 @@
 ## 👋 Nice to meet u, my name is Bruno De Castro!🖖 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunoccs100)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoccs100)
+
 ### 👨‍🎓 Bachelor of Law 🎓 | Aspiring Programmer & QA Analyst
 
 Currently in the **5th semester of Software Engineering**, Every day I try to expand my knowledge!
