@@ -166,7 +166,7 @@ Complete test automation suite for a cinema booking platform with comprehensive 
 ## 🤝 Collaboration & Teamwork
 
 ### 👥 Team Dynamics
-Working closely with **Caio** and the String Testers squad, we've established:
+Working closely with the string testing team formed during the internship:
 - **Daily standups** for continuous alignment
 - **Peer code reviews** for quality assurance
 - **Knowledge sharing sessions** for skill development
