@@ -1,4 +1,4 @@
-# 👨‍💻 Bruno Custodio de Castro | QA Engineer & Test Automation Specialist
+# 👨‍💻 Bruno Custodio de Castro | QA Engineer & Test Automation 
 
 <div align="center">
 
