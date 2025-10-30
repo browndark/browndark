@@ -1,4 +1,4 @@
-# 👨‍💻 Bruno Custodio de Castro | QA Engineer & Test Automation 
+# 👨‍💻 Bruno Custodio de Castro | internship QA Engineer & Test Automation 
 
 <div align="center">
 
