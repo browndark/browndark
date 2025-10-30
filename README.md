@@ -20,7 +20,7 @@
 - **Company:** UOL Compass (Compass UOL)
 - **Team:** Testing Team
 - **Location:** Goiânia, Brazil
-- 
+  
 ### 🎓 Education & Continuous Learning
 - **Bachelor of Law** 🎓 (Completed)
 - **Software Engineering** (5th semester - In Progress)
