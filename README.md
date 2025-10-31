@@ -18,7 +18,7 @@
 ### 📋 Current Role
 - **Position:** Internship: QA Analyst - Test Automation Specialist
 - **Company:** UOL Compass (Compass UOL)
-- **Team:** Testing Team
+- **Team:** String Testers
 - **Location:** Goiânia, Brazil
   
 ### 🎓 Education & Continuous Learning
